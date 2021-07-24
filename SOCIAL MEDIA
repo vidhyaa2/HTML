@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ALL TAGS</title>
+  </head>
+  <body style="background:aqua;">
+    <header><h1 style="color:darkturqoise;">SOCIAL MEDIA</h1> </header>
+    <main>
+      <article>
+        <p>Social media are <big>intercative technologies</big> that allow the <b>creation,sharing of information ideas and career interests.</b>
+        </br>Some of the most popular social media websites,with over 100<sup>1</sup> million registered users.</p>
+        <section>
+          <p style="color:green;">Social media are interactive <b>Internet</b>-based applications.
+          </br>User generated content-such as text posts or comments,<small><b>digital photos,videos,dtat generated through all online instructions.<b><big></p>
+          <aside>
+            <h2 style="color:hotpink;"><div>APPS:</div></h2>
+                                      <p><div>FACEBOOK</div>
+                                       <div>TWITTER</div></p>
+          </aside>
+        </section>
+        <section>
+              <h2>APP PAGES:</h2>
+              <a href="https://www.facebook.com"><h3>FACBOOK PAGE</h3></a>
+              <a href="https://twitter.com"><h3>TWITTER PAGE</h3></a>
+              <dl><h2>Sundar pichai</h2><dt>
+              <dd>He is a <big>CEO<big> of google.<dd>
+              </dl>
+              <span><img src="sundar pichai.jpg" /></span>
+              <span><img src="sundar.jpg" /></span>
+              <span><iframe width="500" height="300" src="https://www.youtube.com/embed/CKJr8e_cvRc?start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+              
+              <ol>
+                <h2 style="color:crimson;"><li>Adavnatge of SM:</li></h2>
+                                                <i><p><div>We reach large audience.</div>
+                                                <div>We can create organic content.</div>
+                                                <div>We build our brand.</div></p></i>
+                <h2 style="color:crimson;"><li>Disavantage of SM:</li></h2>
+                                                <i><p><div>Lacks emotional connection.</div>
+                                                   <div>Decreases face to face communication skills.</div>
+                                                   <div>Facilitates laziness.</div></p></i>
+              </ol>
+              <ul>
+              <h2 style="color:darkslategrey;"><li>Socail media outlets differ from:</li></h2>
+                                                  <span>print,</span>
+                                                  <span>magazine,</span>
+                                                  <span>newspaper.</span>
+              <h2 style="color:darkslategrey;"><li>Variety of ways:</li></h2>
+                                                  <span>frequency,</span>
+                                                  <span>usability,</span>
+                                                  <span>immediacy.</span>
+             </ul>
+        </section>
+        <section>
+          <p style="color:darkcyan;"><h2>Depending on interpreation,other popular platforms that are sometimes referred to as social media services include:</h2></p>
+                          <h3><div>Youtube,</div>
+                          <div>Whatsapp,</div>
+                          <div>Microsoft,</div>
+                          <div>Snapchat,etc...</div></h3>
+        </section>
+        <section>
+          <p style="color:sienna;"><input type="search">
+                                   <input type="hidden"></p>
+        </section>
+      </article>
+    </main>
+  </body>
+</html>
